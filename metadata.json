@@ -1,0 +1,6 @@
+{
+  "name": "Android AppLock - Biometric & PIN Security",
+  "description": "Secure sensitive Android applications with custom numeric PIN, biometric fingerprint authentication, intruder detection, and app interception.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
